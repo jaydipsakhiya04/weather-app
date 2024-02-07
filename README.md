@@ -1,5 +1,5 @@
 
-# jweather-app
+# weather-app
 
 it is simple App to Get Weather of selected city .
 
