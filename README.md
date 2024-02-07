@@ -1,16 +1,26 @@
-# whether_app_netsofters
 
-A new Flutter project.
+# jweather-app
 
-## Getting Started
+it is simple App to Get Weather of selected city .
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- Mvc Pattern
+- Getx StateManagement
+- Whether Api Call
+- Csc picker
+- Responsive Design
+
+
+
+
+
+
+## Screenshots
+
+
+
+![Group 1 (5)](https://github.com/jaydipsakhiya04/weather-app/assets/136619292/d2ce523c-327f-418c-b144-71d9b1b97dd4)
