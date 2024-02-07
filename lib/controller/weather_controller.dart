@@ -12,7 +12,7 @@ class WeatherController extends BaseController {
   static final Dio _dio = Dio();
 
   final String baseUrl = "https://api.openweathermap.org/data/2.5/weather?q";
-  final String token = "886faedd6f07dbbd657bceb77fd00110";
+  final String token = "enter your token here";
 
   Rx<CityDataModel> responseData = CityDataModel().obs;
 
